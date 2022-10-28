@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41d54aff-8bad-4b49-8251-43cb34db1722" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/Ch 3 Q 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/Ch 3 Q 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/Ch 3 Q 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/Ch 3 Q 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/Ch 3 Q 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/Ch 3 Q 6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/Ch 3 Q 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
