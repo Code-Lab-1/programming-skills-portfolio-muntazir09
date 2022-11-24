@@ -5,11 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41d54aff-8bad-4b49-8251-43cb34db1722" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/Ch 4 Q 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1- Getting Started with Python/Exercises/Class Activity 1.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1- Getting Started with Python/Exercises/Class Activity 1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1- Getting Started with Python/Exercises/Class Activity 1.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1- Getting Started with Python/Exercises/Class Activity 1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 1- Getting Started with Python/Exercises/Class Activity 1.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2- Variables &amp; Comments/Exercises/Class Activity 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2- Variables &amp; Comments/Exercises/Class Activity 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2- Variables &amp; Comments/Exercises/Class Activity 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2- Variables &amp; Comments/Exercises/Class activity 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2- Variables &amp; Comments/Exercises/Class activity 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Class Activity 3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/Class Activity 3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 3- Data Structures/Exercises/class activity 3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/class activity 4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/class activity 4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/class activity 4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/class activity 4.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 4- Control Flow/Exercises/class activity 4.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/Ch 5 Q 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/Ch 5 Q 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/Ch 5 Q 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/Ch 5 Q 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/Ch 5 Q 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/Class Activity 5.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/Class activity 5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/Class activity 5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/class activity 5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 5- Dictionaries/Exercises/class activity 5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Ch 6 Q 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Ch 6 Q 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Ch 6 Q 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Ch 6 Q 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Ch 6 Q 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Class Activity 6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Class Activity 6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Class Activity 6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Class Activity 6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 6- Loops/Exercises/Class Activity 6.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Ch 7 Q 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Ch 7 Q 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Ch 7 Q 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Ch 7 Q 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Ch Q 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Class Activity 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Class Activity 7.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Class Activity 7.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Class Activity 7.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 7- Functions/Exercises/Class activity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +86,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\M.M.Mahdi\OneDrive\Documents\GitHub\programming-skills-portfolio-muntazir09\Chapter 7- Functions\Exercises" />
+      <recent name="C:\Users\M.M.Mahdi\OneDrive\Documents\GitHub\programming-skills-portfolio-muntazir09\Chapter 2- Variables &amp; Comments\Exercises" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
